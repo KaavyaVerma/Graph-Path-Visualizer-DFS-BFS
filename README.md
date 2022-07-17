@@ -7,7 +7,7 @@ The visualization consists of nodes and connections between them (paths). Each n
 
 # Pathfinding Visualizer
 <p align="center">
-  <img src="img/dfs.gif" />
+  <img src="https://user-images.githubusercontent.com/90963546/179387978-0888af7f-2b20-4f69-97ce-c8afcdbe7391.png" />
 </p>
 
 
