@@ -23,11 +23,11 @@ Stop/Reset algorithm progress | key **'SPACE'** |
 ### Legend
 Symbol/ Color | State |
 --- | --- |
-![default_node](https://user-images.githubusercontent.com/90963546/179387978-0888af7f-2b20-4f69-97ce-c8afcdbe7391.png) | Default node |
-![selected_node](https://user-images.githubusercontent.com/90963546/179388034-a1d68db0-9f0c-42a3-a1bb-543b03c6a438.png) | Selected node |
-![start_node](https://user-images.githubusercontent.com/90963546/179388055-b1b08d60-9279-4185-b4a2-e0b401d63284.png) | Start node |
-![end_node](https://user-images.githubusercontent.com/90963546/179388101-22098968-6c4e-48df-b6fe-da25e3bd0553.png) | End/Target node |
-![waiting_node](https://user-images.githubusercontent.com/90963546/179388115-456dd4f5-77de-4193-91e6-0e6fcb5686b8.png) | Waiting (Node is on the algorithms "waitlist" to be viewed soon) |
+![default_node](https://user-images.githubusercontent.com/90963546/179389306-47806506-de03-4b80-9b29-3e98cd71e8b2.png)| Default node |
+![selected_node](https://user-images.githubusercontent.com/90963546/179389351-82a45720-121a-4529-bf0f-8a915d0ee035.png)| Selected node |
+![start_node](https://user-images.githubusercontent.com/90963546/179389358-48ce3c6a-c2cc-41d8-a263-897bb6c69d81.png)  | Start node |
+![end_node](https://user-images.githubusercontent.com/90963546/179389375-19ca6166-e018-4945-9126-9e597d5284ac.png)| End/Target node |
+![waiting_node](https://user-images.githubusercontent.com/90963546/179389440-57040412-9c01-4d5c-9415-735d7e2bab56.png) | Waiting (Node is on the algorithms "waitlist" to be viewed soon) |
 ![inspected_node](https://user-images.githubusercontent.com/90963546/179388136-bd202644-9062-4c47-af04-0354b1702d50.png) | Focused (Node is currently focused by the algorithm) |
  ![visited_node](https://user-images.githubusercontent.com/90963546/179388301-00c5740d-2b75-4872-8566-5e614bf0e0d5.png)| Already visited (Node was already visited by the algorithm) |
 ![part_of_final_path_node](https://user-images.githubusercontent.com/90963546/179388322-d6ce4ca0-e608-4b47-842d-8b29f278132a.png)| Final node (Node is part of the final path proposed by the algorithm) |
