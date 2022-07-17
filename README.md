@@ -5,7 +5,7 @@ Visualization tool for pathfinding algorithms like DFS, BFS implemented in Pytho
 ,BFS
 The visualization consists of nodes and connections between them (paths). Each node and each connection can be manually added or removed.
 
-# Python Pathfinding Visualizer
+# Pathfinding Visualizer(PYTHON)
 ![dfs](https://user-images.githubusercontent.com/90963546/179389519-9df7120a-484c-48b8-83b2-b70ced1dab0e.gif)
 
 ### Controls
