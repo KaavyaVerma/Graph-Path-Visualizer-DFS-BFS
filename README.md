@@ -24,13 +24,13 @@ Stop/Reset algorithm progress | key **'SPACE'** |
 Symbol/ Color | State |
 --- | --- |
 ![default_node](https://user-images.githubusercontent.com/90963546/179387978-0888af7f-2b20-4f69-97ce-c8afcdbe7391.png) | Default node |
-![Selected node](img/selected_node.PNG?raw=true "Selected node") | Selected node |
-![Start node](img/start_node.PNG?raw=true "Start node") | Start node |
-![End node](img/end_node.PNG?raw=true "End node") | End/Target node |
-![Waiting node](img/waiting_node.PNG?raw=true "Waiting node") | Waiting (Node is on the algorithms "waitlist" to be viewed soon) |
-![Inspected node](img/inspected_node.PNG?raw=true "Inspected node") | Focused (Node is currently focused by the algorithm) |
-![Visited node](img/visited_node.PNG?raw=true "Visited node") | Already visited (Node was already visited by the algorithm) |
-![Final node](img/part_of_final_path_node.PNG?raw=true "Final node") | Final node (Node is part of the final path proposed by the algorithm) |
+![selected_node](https://user-images.githubusercontent.com/90963546/179388034-a1d68db0-9f0c-42a3-a1bb-543b03c6a438.png) | Selected node |
+![start_node](https://user-images.githubusercontent.com/90963546/179388055-b1b08d60-9279-4185-b4a2-e0b401d63284.png) | Start node |
+![end_node](https://user-images.githubusercontent.com/90963546/179388101-22098968-6c4e-48df-b6fe-da25e3bd0553.png) | End/Target node |
+![waiting_node](https://user-images.githubusercontent.com/90963546/179388115-456dd4f5-77de-4193-91e6-0e6fcb5686b8.png) | Waiting (Node is on the algorithms "waitlist" to be viewed soon) |
+![inspected_node](https://user-images.githubusercontent.com/90963546/179388136-bd202644-9062-4c47-af04-0354b1702d50.png) | Focused (Node is currently focused by the algorithm) |
+ | Already visited (Node was already visited by the algorithm) |
+![end_node](https://user-images.githubusercontent.com/90963546/179388199-33e99e1d-5ad2-47f1-883c-3a1c161877fc.png) | Final node (Node is part of the final path proposed by the algorithm) |
 
 
      
