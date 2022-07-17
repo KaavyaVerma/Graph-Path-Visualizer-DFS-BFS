@@ -29,8 +29,8 @@ Symbol/ Color | State |
 ![end_node](https://user-images.githubusercontent.com/90963546/179388101-22098968-6c4e-48df-b6fe-da25e3bd0553.png) | End/Target node |
 ![waiting_node](https://user-images.githubusercontent.com/90963546/179388115-456dd4f5-77de-4193-91e6-0e6fcb5686b8.png) | Waiting (Node is on the algorithms "waitlist" to be viewed soon) |
 ![inspected_node](https://user-images.githubusercontent.com/90963546/179388136-bd202644-9062-4c47-af04-0354b1702d50.png) | Focused (Node is currently focused by the algorithm) |
- | Already visited (Node was already visited by the algorithm) |
-![end_node](https://user-images.githubusercontent.com/90963546/179388199-33e99e1d-5ad2-47f1-883c-3a1c161877fc.png) | Final node (Node is part of the final path proposed by the algorithm) |
+ ![visited_node](https://user-images.githubusercontent.com/90963546/179388301-00c5740d-2b75-4872-8566-5e614bf0e0d5.png)| Already visited (Node was already visited by the algorithm) |
+![part_of_final_path_node](https://user-images.githubusercontent.com/90963546/179388322-d6ce4ca0-e608-4b47-842d-8b29f278132a.png)| Final node (Node is part of the final path proposed by the algorithm) |
 
 
      
