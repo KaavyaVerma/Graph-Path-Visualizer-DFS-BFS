@@ -23,7 +23,7 @@ Stop/Reset algorithm progress | key **'SPACE'** |
 ### Legend
 Symbol/ Color | State |
 --- | --- |
-![Default node](img/default_node.PNG?raw=true "Default node") | Default node |
+![default_node](https://user-images.githubusercontent.com/90963546/179387978-0888af7f-2b20-4f69-97ce-c8afcdbe7391.png) | Default node |
 ![Selected node](img/selected_node.PNG?raw=true "Selected node") | Selected node |
 ![Start node](img/start_node.PNG?raw=true "Start node") | Start node |
 ![End node](img/end_node.PNG?raw=true "End node") | End/Target node |
